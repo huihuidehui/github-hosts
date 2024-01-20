@@ -1,0 +1,6 @@
+*.pyc
+hosts
+.pytest_cache
+__pycache__
+*.lock
+.vscode
